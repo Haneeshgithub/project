@@ -1,4 +1,4 @@
-# week5lab
+#
 Lab demo
 Use gitclone command to clone the entire repository on to the local machine with python installed
 Change the directory to the project directory where the code is cloned
